@@ -24,7 +24,6 @@ Link to the paper: https://arxiv.org/abs/2308.09731
 <div align="center">
   <figure style="display: inline-block;">
     <img src="Screenshot 2023-09-14 172603.png" width="550"/>
-    <figcaption style="text-align: center;">Flowchart illustrating the conceptual framework of the paper.</figcaption>
   </figure>
 </div>
 
