@@ -2,6 +2,7 @@
 "ChatGPT-HealthPrompt" (an acronym for "Prompt Engineering for Healthcare Decision Making using ChatGPT as the Large Language Model") serves as an evaluative framework to analyze the efficacy and potential hazards of OpenAI's GPT-3 model within the field of healthcare decision-making, especially in diagnostic contexts.
 
 This paper has been accepted to the workshop of XI-ML at ECAI 2023 (http://www.cslab.cc/xi-ml-2023/).
+Link to the paper: https://arxiv.org/abs/2308.09731
 ```
 @article{DBLP:journals/corr/abs-2308-09731,
   author       = {Fatemeh Nazary and
