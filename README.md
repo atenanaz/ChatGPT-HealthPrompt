@@ -22,7 +22,7 @@ This paper has been accepted to the workshop of XI-ML at ECAI 2023 (http://www.c
 <div align="center">
   <figure>
     <img src="Screenshot 2023-09-14 172603.png" width="450"/>
-    <figcaption>Flowchart illustrating the conceptual framework of the paper</figcaption>
+    <figcaption style="text-align: center;">Flowchart illustrating the conceptual framework of the paper.</figcaption>
   </figure>
 </div>
 
